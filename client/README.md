@@ -63,6 +63,7 @@ greencart/
 
 ###  Step 1: Clone the repository
 git clone https://github.com/RiyaRam05/greencart.git
+
 cd greencart
 
 ### Step 2: Setup frontend (client)
